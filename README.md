@@ -68,6 +68,3 @@ caesar_cipher.py      # Main script for Caesar Cipher encryption and decryption
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Let me know if you want the `LICENSE` file or a graphical user interface (GUI) added to the tool.
