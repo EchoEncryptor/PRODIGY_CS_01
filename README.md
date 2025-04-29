@@ -1,7 +1,3 @@
-Here’s a well-formatted **`README.md`** and **description** for your Caesar Cipher Encryption and Decryption program that you can use on GitHub:
-
----
-
 # Caesar Cipher – Encryption & Decryption Tool
 
 ## 📜 Description
